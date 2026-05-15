@@ -4,7 +4,7 @@ Hi 👋 My name is Donut
 I am a Web Developer.
 ---------------------
 
-I specialize in designing and enhancing web applications, alongside developing and maintaining robust, scalable backend systems such as RESTful APIs.
+I specialize in building and enhancing web applications, alongside developing and maintaining robust, scalable backend systems such as RESTful APIs.
 
 * 🌍  I'm based in Thailand
 * ⚡  I like to play games.
