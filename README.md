@@ -1,10 +1,10 @@
-Hi 👋 My name is Suchanun Jamjumras
+Hi 👋 My name is Donut
 ==========================
 
 I am a Web Developer.
 ---------------------
 
-I create or improve websites and develop and maintain server-side, such as REST APIs.
+I specialize in designing and enhancing web applications, alongside developing and maintaining robust, scalable backend systems such as RESTful APIs.
 
 * 🌍  I'm based in Thailand
 * ⚡  I like to play games.
